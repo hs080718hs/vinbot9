@@ -1,5 +1,5 @@
 # discord 라이브러리 사용 선언
-import discord
+import discord.Client
 import os
 
 
